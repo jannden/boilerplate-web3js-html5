@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate-web3js-html5",
+  "version": "1.0.0",
+  "description": "Boilerplate for using Web3.js to connect to blockchain in HTML5.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannden/boilerplate-web3js-html5.git"
+  },
+  "keywords": [
+    "web3",
+    "web3js",
+    "blockchain",
+    "html5"
+  ],
+  "author": "Jan Cibulka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jannden/boilerplate-web3js-html5/issues"
+  },
+  "homepage": "https://github.com/jannden/boilerplate-web3js-html5#readme"
+}
